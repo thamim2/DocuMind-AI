@@ -1,0 +1,8 @@
+streamlit
+langchain-community==0.4.1
+langchain-core==1.0.3
+langchain-huggingface==1.0.1
+langchain-ollama==1.0.0
+langchain-text-splitters==1.0.0
+chromadb
+pypdf
